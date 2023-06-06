@@ -1,5 +1,2 @@
 #!/bin/bash
-^c
-^C
-echo "ALX"
-^C
+echo "ALX School"
